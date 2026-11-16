@@ -1,0 +1,40 @@
+[11:53:37] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-LTS; Eclipse Adoptium Temurin-25.0.3+9) on Linux 7.2.15-arch1-1 (amd64)
+[11:53:37] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-253-main@63e41db (2026-11-15T17:14:05Z) for Minecraft 26.3
+[11:53:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:53:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[11:53:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SimpleHome (1.0.0)
+[11:53:40] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[11:53:40] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[11:53:40] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 242.1ms
+[11:53:41] [Worker-Main-2/INFO]: Loaded 1866 advancements
+[11:53:41] [Server thread/INFO]: Starting minecraft server version 26.3
+[11:53:41] [Server thread/INFO]: Loading properties
+[11:53:41] [Server thread/INFO]: This server is running Paper version 26.3-253-main@63e41db (2026-11-15T17:14:05Z) (Implementing API version 26.3.build.253-stable)
+[11:53:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:53:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:53:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:53:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[11:53:41] [Paper FMA initialiser/INFO]: [ca.spottedleaf.moonrise.common.util.FMA] FMA supported: true for Linux platform with feature flag: flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good amd_lbr_v2 nopl xtopology nonstop_tsc cpuid extd_apicid aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpuid_fault cpb cat_l3 cdp_l3 hw_pstate ssbd mba perfmon_v2 ibrs ibpb stibp ibrs_enhanced vmmcall fsgsbase bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local user_shstk avx512_bf16 clzero irperf xsaveerptr rdpru wbnoinvd cppc arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic vgif x2avic v_spec_ctrl vnmi avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg avx512_vpopcntdq rdpid overflow_recov succor smca fsrm flush_l1d amd_lbr_pmc_freeze
+[11:53:41] [Server thread/INFO]: Default game type: SURVIVAL
+[11:53:41] [Server thread/INFO]: Generating keypair
+[11:53:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:53:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:53:41] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[11:53:41] [Server thread/INFO]: [SimpleHome] Loading server plugin SimpleHome v1.0.0
+[11:53:41] [Server thread/INFO]: Preparing level "world"
+[11:53:42] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[11:53:42] [Server thread/INFO]: Prepared spawn area in 0 ms
+[11:53:42] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[11:53:42] [Server thread/INFO]: Prepared spawn area in 0 ms
+[11:53:42] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[11:53:42] [Server thread/INFO]: Prepared spawn area in 0 ms
+[11:53:42] [Server thread/INFO]: Done preparing level "world" (0.240s)
+[11:53:42] [Server thread/INFO]: [SimpleHome] Enabling SimpleHome v1.0.0
+[11:53:42] [Server thread/INFO]: [SimpleHome] SimpleHome enabled!
+[11:53:42] [Server thread/INFO]: [spark] Starting background profiler...
+[11:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:53:42] [Server thread/INFO]: Running delayed init tasks
+[11:53:42] [Server thread/INFO]: Done (5.322s)! For help, type "help"

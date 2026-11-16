@@ -1,0 +1,24 @@
+name: SimpleHome
+version: 1.0.0
+main: dev.theycreeper.simplehome.SimpleHome
+api-version: '26.3'
+description: Simple home plugin
+commands:
+  sethome:
+    permission: homes.commands.sethome
+    description: Sets a home
+  home:
+    permission: homes.commands.home
+    description: Teleports to a home
+#  delhome:
+#    permission: homes.commands.delhome
+#    description: Deletes a home
+#  homesreload:
+#    permission: homes.reload
+#    description: reloads the config
+#  homelist:
+#    permission: homes.commands.list
+#    description: lists your homes
+#  importhomes:
+#    permission: homes.import
+#    description: Console only command for importing from other plugins.
